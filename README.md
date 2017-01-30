@@ -1,5 +1,5 @@
-domogik-plugin-generic
-======================
+domogik-plugin-teleinfo-xpl
+===========================
 
 This is a plugin for Domogik : http://www.domogik.org
 
